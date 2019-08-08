@@ -1,0 +1,608 @@
+{
+  "data": [{
+      "no": "a101",
+      "labels": [{
+          "title": "国美自营",
+          "txt": 1,
+          "pic": 0
+        },
+        {
+          "title": "返利",
+          "txt": 1,
+          "pic": 0
+        },
+        {
+          "title": "品牌",
+          "txt": 1,
+          "pic": 1
+        },
+        {
+          "title": "屏幕尺寸",
+          "txt": 1,
+          "pic": 1
+        }
+      ],
+      "data": {
+        "brand": {
+          "left": "产品类型",
+          "right": "屏幕尺寸"
+        },
+        "list": [{
+            "main": "//gfs17.gomein.net.cn/T19nV_B5d_1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1O2KjB_Dv1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": "长虹（CHANGHONG）55A4U 55英寸人工智能4K超高清HDR轻薄平板LED液晶电视机（黑色）",
+            "brandleft": "普通电视, 网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1799.00,
+            "comment": "51308人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1nvJsBQWT1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": "小米电视4X L65M5-4X 65英寸 HDR 4K超高清 彩电 AI人工智能语音 黑",
+            "brandleft": "4K超清电视",
+            "brandright": "65英寸",
+            "price": 2999.00,
+            "comment": "1005人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T14rVsBTYT1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": "TCL 65L2 65英寸高画质4K超清HDR智能电视机 丰富影视教育资源（黑色）",
+            "brandleft": "网络电视",
+            "brandright": "65英寸",
+            "price": 2799.00,
+            "comment": "3501人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1rvKsBX_T1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": "康佳（KONKA） B55U 55英寸4K31核 金属超薄HDR人工智能平板液晶电视",
+            "brandleft": "智能电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "13157人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T19nV_B5d_1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1O2KjB_Dv1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": "长虹（CHANGHONG）55A4U 55英寸人工智能4K超高清HDR轻薄平板LED液晶电视机（黑色）",
+            "brandleft": "普通电视, 网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1799.00,
+            "comment": "51308人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1nvJsBQWT1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": "小米电视4X L65M5-4X 65英寸 HDR 4K超高清 彩电 AI人工智能语音 黑",
+            "brandleft": "4K超清电视",
+            "brandright": "65英寸",
+            "price": 2999.00,
+            "comment": "1005人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T14rVsBTYT1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": "TCL 65L2 65英寸高画质4K超清HDR智能电视机 丰富影视教育资源（黑色）",
+            "brandleft": "网络电视",
+            "brandright": "65英寸",
+            "price": 2799.00,
+            "comment": "3501人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1rvKsBX_T1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": "康佳（KONKA） B55U 55英寸4K31核 金属超薄HDR人工智能平板液晶电视",
+            "brandleft": "智能电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "13157人评论"
+          }
+        ]
+      }
+    },
+    {
+      "no": "a102",
+      "labels": [{
+          "title": "国美自营",
+          "txt": 1,
+          "pic": 0
+        },
+        {
+          "title": "返利",
+          "txt": 1,
+          "pic": 0
+        },
+        {
+          "title": "总容积",
+          "txt": 1,
+          "pic": 1
+        },
+        {
+          "title": "能效等级",
+          "txt": 1,
+          "pic": 1
+        }
+      ],
+      "data": {
+        "brand": {
+          "left": "定频/变频",
+          "right": "温控方式"
+        },
+        "list": [{
+            "main": "//gfs17.gomein.net.cn/T1msK_Bvhv1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": "海尔(Haier) BCD-458WDVMU1 458升 多门 冰箱 干湿分储五区保鲜 香槟金",
+            "brandleft": "变频",
+            "brandright": "电脑控温",
+            "price": 3899.00,
+            "comment": "7877人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1N0WjBgYb1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": "美菱(MeiLing) BCD-200WEC 200升L 双门冰箱（玫瑰金） 风冷无霜",
+            "brandleft": "定频",
+            "brandright": "机械控温",
+            "price": 1599.00,
+            "comment": "53044人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1W0V_BvYv1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": "容声(Ronshen) BCD-535WSS1HP 535升 对开门 冰箱 风冷无霜变频节能 钛空金",
+            "brandleft": "变频",
+            "brandright": "电脑控温",
+            "price": 3699.00,
+            "comment": "30124人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1sXZsBXhv1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1MWC_BCJ_1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1msK_Bvhv1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": "海尔(Haier) BCD-458WDVMU1 458升 多门 冰箱 干湿分储五区保鲜 香槟金",
+            "brandleft": "变频",
+            "brandright": "电脑控温",
+            "price": 3899.00,
+            "comment": "7877人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1N0WjBgYb1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": "美菱(MeiLing) BCD-200WEC 200升L 双门冰箱（玫瑰金） 风冷无霜",
+            "brandleft": "定频",
+            "brandright": "机械控温",
+            "price": 1599.00,
+            "comment": "53044人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1W0V_BvYv1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": "容声(Ronshen) BCD-535WSS1HP 535升 对开门 冰箱 风冷无霜变频节能 钛空金",
+            "brandleft": "变频",
+            "brandright": "电脑控温",
+            "price": 3699.00,
+            "comment": "30124人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1sXZsBXhv1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1MWC_BCJ_1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          }
+        ]
+      }
+    },
+    {
+      "no": "a103",
+      "labels": [{
+          "title": "国美自营",
+          "txt": 1,
+          "pic": 0
+        },
+        {
+          "title": "返利",
+          "txt": 1,
+          "pic": 0
+        },
+        {
+          "title": "匹数",
+          "txt": 1,
+          "pic": 1
+        },
+        {
+          "title": "能效等级",
+          "txt": 1,
+          "pic": 1
+        }
+      ],
+      "data": {
+        "brand": {
+          "left": "匹数",
+          "right": "能效等级"
+        },
+        "list": [{
+            "main": "//gfs17.gomein.net.cn/T1T1KvB5bv1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1OoVbB7Dv1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1g_DsBXdT1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1QPKTB4Ev1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1SPKTByAv1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1T1KvB5bv1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1OoVbB7Dv1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1g_DsBXdT1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1QPKTB4Ev1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1SPKTByAv1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          }
+        ]
+      }
+    },
+    {
+      "no": "a201",
+      "labels": [{
+          "title": "国美自营",
+          "txt": 1,
+          "pic": 0
+        },
+        {
+          "title": "返利",
+          "txt": 1,
+          "pic": 0
+        },
+        {
+          "title": "屏幕尺寸",
+          "txt": 1,
+          "pic": 1
+        },
+        {
+          "title": "机身内存",
+          "txt": 1,
+          "pic": 1
+        }
+      ],
+      "data": {
+        "brand": {
+          "left": "机身内存",
+          "right": "屏幕尺寸"
+        },
+        "list": [{
+            "main": "//gfs17.gomein.net.cn/T1PfhsBX__1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": "荣耀（honor）荣耀20 8GB+128GB 全网通版 幻夜黑",
+            "brandleft": "128GB （备注：可使用的内存容量小于此值，因为手机软件占用部分空间）",
+            "brandright": "以官网公布信息为准",
+            "price": 2699.00,
+            "comment": "4854人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1lIDQBQAv1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1sRZjBbdT1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1LfAgBXD_1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1NOWjBvYv1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1NOWjBvYv1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1nzZgBCYv1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T195YsBCCv1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1BUxgBQdv1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1ycYQBgd_1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          }
+        ]
+      }
+    },
+    {
+      "no": "a202",
+      "labels": [{
+          "title": "国美自营",
+          "txt": 1,
+          "pic": 0
+        },
+        {
+          "title": "返利",
+          "txt": 1,
+          "pic": 0
+        },
+        {
+          "title": "屏幕规格",
+          "txt": 1,
+          "pic": 1
+        },
+        {
+          "title": "处理器",
+          "txt": 1,
+          "pic": 1
+        }
+      ],
+      "data": {
+        "brand": {
+          "left": "处理器描述",
+          "right": "硬盘容量"
+        },
+        "list": [{
+            "main": "//gfs17.gomein.net.cn/T1hlbQB5hv1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": "华硕(ASUS)飞行堡垒六代FX86FE 15.6英寸三边窄边框游戏本(i7-8750H 8G 1T+256GSSD GTX1050TI 4G)红黑色",
+            "brandleft": "128GB （备注：可使用的内存容量小于此值，因为手机软件占用部分空间）",
+            "brandright": "以官网公布信息为准",
+            "price": 5869.00,
+            "comment": "4854人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1Tq_jBKxv1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1TMVgB4Lv1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1FrEQB5AT1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1HybbB_hT1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T14XJjBTJT1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1H6WsBXxv1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1auYsBjhT1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1C2xbBb_T1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          },
+          {
+            "main": "//gfs17.gomein.net.cn/T1WhCQBKVv1RCvBVdK_250.jpg",
+            "selfbg": 1,
+            "selftxt": " 创维（SKYWORTH）55V7 55英寸4K超高清HDR 20核A73芯片 AI人工智能语音 网络WIFI 液晶平板电视机",
+            "brandleft": "网络电视, 智能电视, 4K超清电视",
+            "brandright": "55英寸",
+            "price": 1899.00,
+            "comment": "525人评论"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+    "headlines": "https://gfs13.gomein.net.cn/wireless/T1yEhbB7J_1RCvBVdK_120_28.png",
+    "pic1": "https://gfs10.gomein.net.cn/wireless/T1fyDjBjZ_1RCvBVdK_120_28.png",
+    "time": "2019/7/29 23:59:00",
+    "content": [
+        {
+            "title": "清洗聚会",
+            "content": "空调清洗卷后低至69折"
+        },
+        {
+            "title": "分期购",
+            "content": "空调清洗卷后低至69折"
+        },
+        {
+            "title": "清洗聚会",
+            "content": "空调清洗卷后低至69折"
+        }
+    ],
+    "goods": [
+        {
+            "icon": "https://gfs17.gomein.net.cn/T1mnVbBjYT1RCvBVdK_160.jpg",
+            "price": "￥12.7",
+            "inventory": "￥12.7"
+        },
+        {
+            "icon": "https://gfs17.gomein.net.cn/T1jEbjBvKv1RCvBVdK_160.jpg",
+            "price": "￥209",
+            "inventory": "￥229"
+        },
+        {
+            "icon": "https://gfs17.gomein.net.cn/T10oxTBTDv1RCvBVdK_160.jpg",
+            "price": "￥12.7",
+            "inventory": "￥12.7"
+        }
+    ],
+    "other": [
+        {
+            "title": "值得买",
+            "con": "大家都在买",
+            "pic": "https://gfs13.gomein.net.cn/wireless/T1hvLsB_Dv1RCvBVdK_355_144.jpg"
+        },
+        {
+            "title": "品牌特卖",
+            "con": "华硕 轻薄本低至2599元",
+            "pic": "https://gfs11.gomein.net.cn/wireless/T1WXKXBmKv1RCvBVdK_355_144.png"
+        }
+    ],
+    "new": [
+        {
+            "title": "新品抢先",
+            "con": "惠普薄锐ENVY 13超轻薄本",
+            "pic": "https://gfs10.gomein.net.cn/wireless/T1iXDXBTJv1RCvBVdK_355_144.jpg"
+        }
+    ]
+}

@@ -1,0 +1,4470 @@
+{
+  "rightDatas": [{
+      "id": 1,
+      "data": {
+        "advert": "",
+        "flag": false,
+        "list": [{
+            "title": "大家电",
+            "item": [{
+                "no": "a101",
+                "text": "平板电视",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000049.png"
+              },
+              {
+                "no": "a102",
+                "text": "冰箱",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000054.png"
+              },
+              {
+                "no": "a103",
+                "text": "壁挂式空调",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10000062.png"
+              }
+            ]
+          },
+          {
+            "title": "通信数码",
+            "item": [{
+                "no": "a201",
+                "text": "手机",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10000070.png"
+              },
+              {
+                "no": "a202",
+                "text": "笔记本电脑",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000092.png"
+              },
+              {
+                "no": "a203",
+                "text": "单反相机",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000145.png"
+              }
+            ]
+          },
+          {
+            "title": "摄像数码",
+            "item": [{
+                "text": "数码相机",
+                "pic": "//img10.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071412360520.png"
+              },
+              {
+                "text": "单反相机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415230198.png"
+              },
+              {
+                "text": "单电/微单相机",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415420234.png"
+              },
+              {
+                "text": "摄像机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416100192.png"
+              },
+              {
+                "text": "拍立得",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416350639.png"
+              }
+            ]
+          },
+          {
+            "title": "摄照配件",
+            "item": [{
+                "text": "单反镜头",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "滤镜",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000150.png"
+              },
+              {
+                "text": "三脚架/云台",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000152.png"
+              },
+              {
+                "text": "摄照包",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000153.png"
+              },
+              {
+                "text": "单反配件",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "存储卡",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000155.png"
+              },
+              {
+                "text": "电池/充电器",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10000157.png"
+              }
+            ]
+          },
+          {
+            "title": "智能设备",
+            "item": [{
+                "text": "智能手表",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能手环",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071139390561.png"
+              },
+              {
+                "text": "VR眼镜",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能家居",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071149210111.png"
+              },
+              {
+                "text": "健康监测",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071150290899.png"
+              },
+              {
+                "text": "无人机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071151120997.png"
+              }
+            ]
+          },
+          {
+            "title": "电子教育",
+            "item": [{
+                "text": "录音笔",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071354010000.png"
+              },
+              {
+                "text": "点读机/复读机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071359370127.png"
+              },
+              {
+                "text": "电子书",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071352170000.png"
+              }
+            ]
+          },
+          {
+            "title": "视听娱乐",
+            "item": [{
+                "text": "MP3/MP4",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "音响/音响",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071404520577.png"
+              },
+              {
+                "text": "耳机/耳麦",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "收/录音机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071406560292.png"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "data": {
+        "advert": "http://gfs9.gomein.net.cn/wireless/T1uRVXB7C_1RCvBVdK_1125_347.jpg",
+        "flag": true,
+        "list": [{
+            "title": "手机通讯",
+            "item": [{
+              "text": "手机",
+              "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000070.png"
+            }]
+          },
+          {
+            "title": "手机配件",
+            "item": [{
+                "text": "移动电源",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat15787588.png"
+              },
+              {
+                "text": "存储卡/读卡器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000082.png"
+              },
+              {
+                "text": "蓝牙耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "有线耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "iPhone配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10005424.png"
+              },
+              {
+                "text": "保护套",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000089.png"
+              },
+              {
+                "text": "贴膜",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000088.png"
+              },
+              {
+                "text": "手机电池",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000079.png"
+              },
+              {
+                "text": "智能手环/手表",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat21455955.png"
+              },
+              {
+                "text": "车载配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat15787589.png"
+              },
+              {
+                "text": "其他配件",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000086.png"
+              },
+              {
+                "text": "充电器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000080.png"
+              }
+            ]
+          },
+          {
+            "title": "摄像数码",
+            "item": [{
+                "text": "数码相机",
+                "pic": "//img10.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071412360520.png"
+              },
+              {
+                "text": "单反相机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415230198.png"
+              },
+              {
+                "text": "单电/微单相机",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415420234.png"
+              },
+              {
+                "text": "摄像机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416100192.png"
+              },
+              {
+                "text": "拍立得",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416350639.png"
+              }
+            ]
+          },
+          {
+            "title": "摄照配件",
+            "item": [{
+                "text": "单反镜头",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "滤镜",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000150.png"
+              },
+              {
+                "text": "三脚架/云台",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000152.png"
+              },
+              {
+                "text": "摄照包",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000153.png"
+              },
+              {
+                "text": "单反配件",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "存储卡",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000155.png"
+              },
+              {
+                "text": "电池/充电器",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10000157.png"
+              }
+            ]
+          },
+          {
+            "title": "智能设备",
+            "item": [{
+                "text": "智能手表",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能手环",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071139390561.png"
+              },
+              {
+                "text": "VR眼镜",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能家居",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071149210111.png"
+              },
+              {
+                "text": "健康监测",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071150290899.png"
+              },
+              {
+                "text": "无人机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071151120997.png"
+              }
+            ]
+          },
+          {
+            "title": "电子教育",
+            "item": [{
+                "text": "录音笔",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071354010000.png"
+              },
+              {
+                "text": "点读机/复读机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071359370127.png"
+              },
+              {
+                "text": "电子书",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071352170000.png"
+              }
+            ]
+          },
+          {
+            "title": "视听娱乐",
+            "item": [{
+                "text": "MP3/MP4",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "音响/音响",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071404520577.png"
+              },
+              {
+                "text": "耳机/耳麦",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "收/录音机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071406560292.png"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "data": {
+        "advert": "http://gfs9.gomein.net.cn/wireless/T1uRVXB7C_1RCvBVdK_1125_347.jpg",
+        "flag": true,
+        "list": [{
+            "title": "手机通讯",
+            "item": [{
+              "text": "手机",
+              "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000070.png"
+            }]
+          },
+          {
+            "title": "手机配件",
+            "item": [{
+                "text": "移动电源",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat15787588.png"
+              },
+              {
+                "text": "存储卡/读卡器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000082.png"
+              },
+              {
+                "text": "蓝牙耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "有线耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "iPhone配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10005424.png"
+              },
+              {
+                "text": "保护套",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000089.png"
+              },
+              {
+                "text": "贴膜",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000088.png"
+              },
+              {
+                "text": "手机电池",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000079.png"
+              },
+              {
+                "text": "智能手环/手表",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat21455955.png"
+              },
+              {
+                "text": "车载配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat15787589.png"
+              },
+              {
+                "text": "其他配件",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000086.png"
+              },
+              {
+                "text": "充电器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000080.png"
+              }
+            ]
+          },
+          {
+            "title": "摄像数码",
+            "item": [{
+                "text": "数码相机",
+                "pic": "//img10.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071412360520.png"
+              },
+              {
+                "text": "单反相机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415230198.png"
+              },
+              {
+                "text": "单电/微单相机",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415420234.png"
+              },
+              {
+                "text": "摄像机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416100192.png"
+              },
+              {
+                "text": "拍立得",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416350639.png"
+              }
+            ]
+          },
+          {
+            "title": "摄照配件",
+            "item": [{
+                "text": "单反镜头",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "滤镜",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000150.png"
+              },
+              {
+                "text": "三脚架/云台",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000152.png"
+              },
+              {
+                "text": "摄照包",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000153.png"
+              },
+              {
+                "text": "单反配件",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "存储卡",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000155.png"
+              },
+              {
+                "text": "电池/充电器",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10000157.png"
+              }
+            ]
+          },
+          {
+            "title": "智能设备",
+            "item": [{
+                "text": "智能手表",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能手环",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071139390561.png"
+              },
+              {
+                "text": "VR眼镜",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能家居",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071149210111.png"
+              },
+              {
+                "text": "健康监测",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071150290899.png"
+              },
+              {
+                "text": "无人机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071151120997.png"
+              }
+            ]
+          },
+          {
+            "title": "电子教育",
+            "item": [{
+                "text": "录音笔",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071354010000.png"
+              },
+              {
+                "text": "点读机/复读机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071359370127.png"
+              },
+              {
+                "text": "电子书",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071352170000.png"
+              }
+            ]
+          },
+          {
+            "title": "视听娱乐",
+            "item": [{
+                "text": "MP3/MP4",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "音响/音响",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071404520577.png"
+              },
+              {
+                "text": "耳机/耳麦",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "收/录音机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071406560292.png"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "data": {
+        "advert": "http://gfs9.gomein.net.cn/wireless/T1uRVXB7C_1RCvBVdK_1125_347.jpg",
+        "flag": true,
+        "list": [{
+            "title": "手机通讯",
+            "item": [{
+              "text": "手机",
+              "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000070.png"
+            }]
+          },
+          {
+            "title": "手机配件",
+            "item": [{
+                "text": "移动电源",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat15787588.png"
+              },
+              {
+                "text": "存储卡/读卡器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000082.png"
+              },
+              {
+                "text": "蓝牙耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "有线耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "iPhone配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10005424.png"
+              },
+              {
+                "text": "保护套",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000089.png"
+              },
+              {
+                "text": "贴膜",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000088.png"
+              },
+              {
+                "text": "手机电池",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000079.png"
+              },
+              {
+                "text": "智能手环/手表",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat21455955.png"
+              },
+              {
+                "text": "车载配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat15787589.png"
+              },
+              {
+                "text": "其他配件",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000086.png"
+              },
+              {
+                "text": "充电器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000080.png"
+              }
+            ]
+          },
+          {
+            "title": "摄像数码",
+            "item": [{
+                "text": "数码相机",
+                "pic": "//img10.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071412360520.png"
+              },
+              {
+                "text": "单反相机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415230198.png"
+              },
+              {
+                "text": "单电/微单相机",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415420234.png"
+              },
+              {
+                "text": "摄像机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416100192.png"
+              },
+              {
+                "text": "拍立得",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416350639.png"
+              }
+            ]
+          },
+          {
+            "title": "摄照配件",
+            "item": [{
+                "text": "单反镜头",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "滤镜",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000150.png"
+              },
+              {
+                "text": "三脚架/云台",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000152.png"
+              },
+              {
+                "text": "摄照包",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000153.png"
+              },
+              {
+                "text": "单反配件",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "存储卡",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000155.png"
+              },
+              {
+                "text": "电池/充电器",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10000157.png"
+              }
+            ]
+          },
+          {
+            "title": "智能设备",
+            "item": [{
+                "text": "智能手表",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能手环",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071139390561.png"
+              },
+              {
+                "text": "VR眼镜",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能家居",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071149210111.png"
+              },
+              {
+                "text": "健康监测",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071150290899.png"
+              },
+              {
+                "text": "无人机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071151120997.png"
+              }
+            ]
+          },
+          {
+            "title": "电子教育",
+            "item": [{
+                "text": "录音笔",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071354010000.png"
+              },
+              {
+                "text": "点读机/复读机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071359370127.png"
+              },
+              {
+                "text": "电子书",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071352170000.png"
+              }
+            ]
+          },
+          {
+            "title": "视听娱乐",
+            "item": [{
+                "text": "MP3/MP4",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "音响/音响",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071404520577.png"
+              },
+              {
+                "text": "耳机/耳麦",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "收/录音机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071406560292.png"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "data": {
+        "advert": "http://gfs9.gomein.net.cn/wireless/T1uRVXB7C_1RCvBVdK_1125_347.jpg",
+        "flag": true,
+        "list": [{
+            "title": "手机通讯",
+            "item": [{
+              "text": "手机",
+              "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000070.png"
+            }]
+          },
+          {
+            "title": "手机配件",
+            "item": [{
+                "text": "移动电源",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat15787588.png"
+              },
+              {
+                "text": "存储卡/读卡器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000082.png"
+              },
+              {
+                "text": "蓝牙耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "有线耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "iPhone配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10005424.png"
+              },
+              {
+                "text": "保护套",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000089.png"
+              },
+              {
+                "text": "贴膜",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000088.png"
+              },
+              {
+                "text": "手机电池",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000079.png"
+              },
+              {
+                "text": "智能手环/手表",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat21455955.png"
+              },
+              {
+                "text": "车载配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat15787589.png"
+              },
+              {
+                "text": "其他配件",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000086.png"
+              },
+              {
+                "text": "充电器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000080.png"
+              }
+            ]
+          },
+          {
+            "title": "摄像数码",
+            "item": [{
+                "text": "数码相机",
+                "pic": "//img10.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071412360520.png"
+              },
+              {
+                "text": "单反相机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415230198.png"
+              },
+              {
+                "text": "单电/微单相机",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415420234.png"
+              },
+              {
+                "text": "摄像机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416100192.png"
+              },
+              {
+                "text": "拍立得",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416350639.png"
+              }
+            ]
+          },
+          {
+            "title": "摄照配件",
+            "item": [{
+                "text": "单反镜头",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "滤镜",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000150.png"
+              },
+              {
+                "text": "三脚架/云台",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000152.png"
+              },
+              {
+                "text": "摄照包",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000153.png"
+              },
+              {
+                "text": "单反配件",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "存储卡",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000155.png"
+              },
+              {
+                "text": "电池/充电器",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10000157.png"
+              }
+            ]
+          },
+          {
+            "title": "智能设备",
+            "item": [{
+                "text": "智能手表",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能手环",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071139390561.png"
+              },
+              {
+                "text": "VR眼镜",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能家居",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071149210111.png"
+              },
+              {
+                "text": "健康监测",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071150290899.png"
+              },
+              {
+                "text": "无人机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071151120997.png"
+              }
+            ]
+          },
+          {
+            "title": "电子教育",
+            "item": [{
+                "text": "录音笔",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071354010000.png"
+              },
+              {
+                "text": "点读机/复读机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071359370127.png"
+              },
+              {
+                "text": "电子书",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071352170000.png"
+              }
+            ]
+          },
+          {
+            "title": "视听娱乐",
+            "item": [{
+                "text": "MP3/MP4",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "音响/音响",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071404520577.png"
+              },
+              {
+                "text": "耳机/耳麦",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "收/录音机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071406560292.png"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "data": {
+        "advert": "http://gfs9.gomein.net.cn/wireless/T1uRVXB7C_1RCvBVdK_1125_347.jpg",
+        "flag": true,
+        "list": [{
+            "title": "手机通讯",
+            "item": [{
+              "text": "手机",
+              "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000070.png"
+            }]
+          },
+          {
+            "title": "手机配件",
+            "item": [{
+                "text": "移动电源",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat15787588.png"
+              },
+              {
+                "text": "存储卡/读卡器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000082.png"
+              },
+              {
+                "text": "蓝牙耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "有线耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "iPhone配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10005424.png"
+              },
+              {
+                "text": "保护套",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000089.png"
+              },
+              {
+                "text": "贴膜",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000088.png"
+              },
+              {
+                "text": "手机电池",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000079.png"
+              },
+              {
+                "text": "智能手环/手表",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat21455955.png"
+              },
+              {
+                "text": "车载配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat15787589.png"
+              },
+              {
+                "text": "其他配件",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000086.png"
+              },
+              {
+                "text": "充电器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000080.png"
+              }
+            ]
+          },
+          {
+            "title": "摄像数码",
+            "item": [{
+                "text": "数码相机",
+                "pic": "//img10.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071412360520.png"
+              },
+              {
+                "text": "单反相机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415230198.png"
+              },
+              {
+                "text": "单电/微单相机",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415420234.png"
+              },
+              {
+                "text": "摄像机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416100192.png"
+              },
+              {
+                "text": "拍立得",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416350639.png"
+              }
+            ]
+          },
+          {
+            "title": "摄照配件",
+            "item": [{
+                "text": "单反镜头",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "滤镜",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000150.png"
+              },
+              {
+                "text": "三脚架/云台",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000152.png"
+              },
+              {
+                "text": "摄照包",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000153.png"
+              },
+              {
+                "text": "单反配件",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "存储卡",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000155.png"
+              },
+              {
+                "text": "电池/充电器",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10000157.png"
+              }
+            ]
+          },
+          {
+            "title": "智能设备",
+            "item": [{
+                "text": "智能手表",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能手环",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071139390561.png"
+              },
+              {
+                "text": "VR眼镜",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能家居",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071149210111.png"
+              },
+              {
+                "text": "健康监测",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071150290899.png"
+              },
+              {
+                "text": "无人机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071151120997.png"
+              }
+            ]
+          },
+          {
+            "title": "电子教育",
+            "item": [{
+                "text": "录音笔",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071354010000.png"
+              },
+              {
+                "text": "点读机/复读机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071359370127.png"
+              },
+              {
+                "text": "电子书",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071352170000.png"
+              }
+            ]
+          },
+          {
+            "title": "视听娱乐",
+            "item": [{
+                "text": "MP3/MP4",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "音响/音响",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071404520577.png"
+              },
+              {
+                "text": "耳机/耳麦",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "收/录音机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071406560292.png"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "data": {
+        "advert": "http://gfs9.gomein.net.cn/wireless/T1uRVXB7C_1RCvBVdK_1125_347.jpg",
+        "flag": true,
+        "list": [{
+            "title": "手机通讯",
+            "item": [{
+              "text": "手机",
+              "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000070.png"
+            }]
+          },
+          {
+            "title": "手机配件",
+            "item": [{
+                "text": "移动电源",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat15787588.png"
+              },
+              {
+                "text": "存储卡/读卡器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000082.png"
+              },
+              {
+                "text": "蓝牙耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "有线耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "iPhone配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10005424.png"
+              },
+              {
+                "text": "保护套",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000089.png"
+              },
+              {
+                "text": "贴膜",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000088.png"
+              },
+              {
+                "text": "手机电池",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000079.png"
+              },
+              {
+                "text": "智能手环/手表",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat21455955.png"
+              },
+              {
+                "text": "车载配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat15787589.png"
+              },
+              {
+                "text": "其他配件",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000086.png"
+              },
+              {
+                "text": "充电器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000080.png"
+              }
+            ]
+          },
+          {
+            "title": "摄像数码",
+            "item": [{
+                "text": "数码相机",
+                "pic": "//img10.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071412360520.png"
+              },
+              {
+                "text": "单反相机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415230198.png"
+              },
+              {
+                "text": "单电/微单相机",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415420234.png"
+              },
+              {
+                "text": "摄像机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416100192.png"
+              },
+              {
+                "text": "拍立得",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416350639.png"
+              }
+            ]
+          },
+          {
+            "title": "摄照配件",
+            "item": [{
+                "text": "单反镜头",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "滤镜",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000150.png"
+              },
+              {
+                "text": "三脚架/云台",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000152.png"
+              },
+              {
+                "text": "摄照包",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000153.png"
+              },
+              {
+                "text": "单反配件",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "存储卡",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000155.png"
+              },
+              {
+                "text": "电池/充电器",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10000157.png"
+              }
+            ]
+          },
+          {
+            "title": "智能设备",
+            "item": [{
+                "text": "智能手表",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能手环",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071139390561.png"
+              },
+              {
+                "text": "VR眼镜",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能家居",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071149210111.png"
+              },
+              {
+                "text": "健康监测",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071150290899.png"
+              },
+              {
+                "text": "无人机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071151120997.png"
+              }
+            ]
+          },
+          {
+            "title": "电子教育",
+            "item": [{
+                "text": "录音笔",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071354010000.png"
+              },
+              {
+                "text": "点读机/复读机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071359370127.png"
+              },
+              {
+                "text": "电子书",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071352170000.png"
+              }
+            ]
+          },
+          {
+            "title": "视听娱乐",
+            "item": [{
+                "text": "MP3/MP4",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "音响/音响",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071404520577.png"
+              },
+              {
+                "text": "耳机/耳麦",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "收/录音机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071406560292.png"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "data": {
+        "advert": "http://gfs9.gomein.net.cn/wireless/T1uRVXB7C_1RCvBVdK_1125_347.jpg",
+        "flag": true,
+        "list": [{
+            "title": "手机通讯",
+            "item": [{
+              "text": "手机",
+              "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000070.png"
+            }]
+          },
+          {
+            "title": "手机配件",
+            "item": [{
+                "text": "移动电源",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat15787588.png"
+              },
+              {
+                "text": "存储卡/读卡器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000082.png"
+              },
+              {
+                "text": "蓝牙耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "有线耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "iPhone配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10005424.png"
+              },
+              {
+                "text": "保护套",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000089.png"
+              },
+              {
+                "text": "贴膜",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000088.png"
+              },
+              {
+                "text": "手机电池",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000079.png"
+              },
+              {
+                "text": "智能手环/手表",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat21455955.png"
+              },
+              {
+                "text": "车载配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat15787589.png"
+              },
+              {
+                "text": "其他配件",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000086.png"
+              },
+              {
+                "text": "充电器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000080.png"
+              }
+            ]
+          },
+          {
+            "title": "摄像数码",
+            "item": [{
+                "text": "数码相机",
+                "pic": "//img10.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071412360520.png"
+              },
+              {
+                "text": "单反相机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415230198.png"
+              },
+              {
+                "text": "单电/微单相机",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415420234.png"
+              },
+              {
+                "text": "摄像机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416100192.png"
+              },
+              {
+                "text": "拍立得",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416350639.png"
+              }
+            ]
+          },
+          {
+            "title": "摄照配件",
+            "item": [{
+                "text": "单反镜头",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "滤镜",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000150.png"
+              },
+              {
+                "text": "三脚架/云台",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000152.png"
+              },
+              {
+                "text": "摄照包",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000153.png"
+              },
+              {
+                "text": "单反配件",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "存储卡",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000155.png"
+              },
+              {
+                "text": "电池/充电器",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10000157.png"
+              }
+            ]
+          },
+          {
+            "title": "智能设备",
+            "item": [{
+                "text": "智能手表",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能手环",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071139390561.png"
+              },
+              {
+                "text": "VR眼镜",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能家居",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071149210111.png"
+              },
+              {
+                "text": "健康监测",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071150290899.png"
+              },
+              {
+                "text": "无人机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071151120997.png"
+              }
+            ]
+          },
+          {
+            "title": "电子教育",
+            "item": [{
+                "text": "录音笔",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071354010000.png"
+              },
+              {
+                "text": "点读机/复读机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071359370127.png"
+              },
+              {
+                "text": "电子书",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071352170000.png"
+              }
+            ]
+          },
+          {
+            "title": "视听娱乐",
+            "item": [{
+                "text": "MP3/MP4",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "音响/音响",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071404520577.png"
+              },
+              {
+                "text": "耳机/耳麦",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "收/录音机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071406560292.png"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "data": {
+        "advert": "http://gfs9.gomein.net.cn/wireless/T1uRVXB7C_1RCvBVdK_1125_347.jpg",
+        "flag": true,
+        "list": [{
+            "title": "手机通讯",
+            "item": [{
+              "text": "手机",
+              "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000070.png"
+            }]
+          },
+          {
+            "title": "手机配件",
+            "item": [{
+                "text": "移动电源",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat15787588.png"
+              },
+              {
+                "text": "存储卡/读卡器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000082.png"
+              },
+              {
+                "text": "蓝牙耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "有线耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "iPhone配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10005424.png"
+              },
+              {
+                "text": "保护套",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000089.png"
+              },
+              {
+                "text": "贴膜",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000088.png"
+              },
+              {
+                "text": "手机电池",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000079.png"
+              },
+              {
+                "text": "智能手环/手表",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat21455955.png"
+              },
+              {
+                "text": "车载配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat15787589.png"
+              },
+              {
+                "text": "其他配件",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000086.png"
+              },
+              {
+                "text": "充电器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000080.png"
+              }
+            ]
+          },
+          {
+            "title": "摄像数码",
+            "item": [{
+                "text": "数码相机",
+                "pic": "//img10.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071412360520.png"
+              },
+              {
+                "text": "单反相机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415230198.png"
+              },
+              {
+                "text": "单电/微单相机",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415420234.png"
+              },
+              {
+                "text": "摄像机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416100192.png"
+              },
+              {
+                "text": "拍立得",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416350639.png"
+              }
+            ]
+          },
+          {
+            "title": "摄照配件",
+            "item": [{
+                "text": "单反镜头",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "滤镜",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000150.png"
+              },
+              {
+                "text": "三脚架/云台",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000152.png"
+              },
+              {
+                "text": "摄照包",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000153.png"
+              },
+              {
+                "text": "单反配件",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "存储卡",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000155.png"
+              },
+              {
+                "text": "电池/充电器",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10000157.png"
+              }
+            ]
+          },
+          {
+            "title": "智能设备",
+            "item": [{
+                "text": "智能手表",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能手环",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071139390561.png"
+              },
+              {
+                "text": "VR眼镜",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能家居",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071149210111.png"
+              },
+              {
+                "text": "健康监测",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071150290899.png"
+              },
+              {
+                "text": "无人机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071151120997.png"
+              }
+            ]
+          },
+          {
+            "title": "电子教育",
+            "item": [{
+                "text": "录音笔",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071354010000.png"
+              },
+              {
+                "text": "点读机/复读机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071359370127.png"
+              },
+              {
+                "text": "电子书",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071352170000.png"
+              }
+            ]
+          },
+          {
+            "title": "视听娱乐",
+            "item": [{
+                "text": "MP3/MP4",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "音响/音响",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071404520577.png"
+              },
+              {
+                "text": "耳机/耳麦",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "收/录音机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071406560292.png"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "data": {
+        "advert": "http://gfs9.gomein.net.cn/wireless/T1uRVXB7C_1RCvBVdK_1125_347.jpg",
+        "flag": true,
+        "list": [{
+            "title": "手机通讯",
+            "item": [{
+              "text": "手机",
+              "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000070.png"
+            }]
+          },
+          {
+            "title": "手机配件",
+            "item": [{
+                "text": "移动电源",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat15787588.png"
+              },
+              {
+                "text": "存储卡/读卡器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000082.png"
+              },
+              {
+                "text": "蓝牙耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "有线耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "iPhone配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10005424.png"
+              },
+              {
+                "text": "保护套",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000089.png"
+              },
+              {
+                "text": "贴膜",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000088.png"
+              },
+              {
+                "text": "手机电池",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000079.png"
+              },
+              {
+                "text": "智能手环/手表",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat21455955.png"
+              },
+              {
+                "text": "车载配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat15787589.png"
+              },
+              {
+                "text": "其他配件",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000086.png"
+              },
+              {
+                "text": "充电器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000080.png"
+              }
+            ]
+          },
+          {
+            "title": "摄像数码",
+            "item": [{
+                "text": "数码相机",
+                "pic": "//img10.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071412360520.png"
+              },
+              {
+                "text": "单反相机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415230198.png"
+              },
+              {
+                "text": "单电/微单相机",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415420234.png"
+              },
+              {
+                "text": "摄像机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416100192.png"
+              },
+              {
+                "text": "拍立得",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416350639.png"
+              }
+            ]
+          },
+          {
+            "title": "摄照配件",
+            "item": [{
+                "text": "单反镜头",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "滤镜",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000150.png"
+              },
+              {
+                "text": "三脚架/云台",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000152.png"
+              },
+              {
+                "text": "摄照包",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000153.png"
+              },
+              {
+                "text": "单反配件",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "存储卡",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000155.png"
+              },
+              {
+                "text": "电池/充电器",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10000157.png"
+              }
+            ]
+          },
+          {
+            "title": "智能设备",
+            "item": [{
+                "text": "智能手表",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能手环",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071139390561.png"
+              },
+              {
+                "text": "VR眼镜",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能家居",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071149210111.png"
+              },
+              {
+                "text": "健康监测",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071150290899.png"
+              },
+              {
+                "text": "无人机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071151120997.png"
+              }
+            ]
+          },
+          {
+            "title": "电子教育",
+            "item": [{
+                "text": "录音笔",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071354010000.png"
+              },
+              {
+                "text": "点读机/复读机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071359370127.png"
+              },
+              {
+                "text": "电子书",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071352170000.png"
+              }
+            ]
+          },
+          {
+            "title": "视听娱乐",
+            "item": [{
+                "text": "MP3/MP4",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "音响/音响",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071404520577.png"
+              },
+              {
+                "text": "耳机/耳麦",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "收/录音机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071406560292.png"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "data": {
+        "advert": "http://gfs9.gomein.net.cn/wireless/T1uRVXB7C_1RCvBVdK_1125_347.jpg",
+        "flag": true,
+        "list": [{
+            "title": "手机通讯",
+            "item": [{
+              "text": "手机",
+              "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000070.png"
+            }]
+          },
+          {
+            "title": "手机配件",
+            "item": [{
+                "text": "移动电源",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat15787588.png"
+              },
+              {
+                "text": "存储卡/读卡器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000082.png"
+              },
+              {
+                "text": "蓝牙耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "有线耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "iPhone配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10005424.png"
+              },
+              {
+                "text": "保护套",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000089.png"
+              },
+              {
+                "text": "贴膜",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000088.png"
+              },
+              {
+                "text": "手机电池",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000079.png"
+              },
+              {
+                "text": "智能手环/手表",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat21455955.png"
+              },
+              {
+                "text": "车载配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat15787589.png"
+              },
+              {
+                "text": "其他配件",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000086.png"
+              },
+              {
+                "text": "充电器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000080.png"
+              }
+            ]
+          },
+          {
+            "title": "摄像数码",
+            "item": [{
+                "text": "数码相机",
+                "pic": "//img10.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071412360520.png"
+              },
+              {
+                "text": "单反相机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415230198.png"
+              },
+              {
+                "text": "单电/微单相机",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415420234.png"
+              },
+              {
+                "text": "摄像机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416100192.png"
+              },
+              {
+                "text": "拍立得",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416350639.png"
+              }
+            ]
+          },
+          {
+            "title": "摄照配件",
+            "item": [{
+                "text": "单反镜头",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "滤镜",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000150.png"
+              },
+              {
+                "text": "三脚架/云台",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000152.png"
+              },
+              {
+                "text": "摄照包",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000153.png"
+              },
+              {
+                "text": "单反配件",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "存储卡",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000155.png"
+              },
+              {
+                "text": "电池/充电器",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10000157.png"
+              }
+            ]
+          },
+          {
+            "title": "智能设备",
+            "item": [{
+                "text": "智能手表",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能手环",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071139390561.png"
+              },
+              {
+                "text": "VR眼镜",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能家居",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071149210111.png"
+              },
+              {
+                "text": "健康监测",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071150290899.png"
+              },
+              {
+                "text": "无人机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071151120997.png"
+              }
+            ]
+          },
+          {
+            "title": "电子教育",
+            "item": [{
+                "text": "录音笔",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071354010000.png"
+              },
+              {
+                "text": "点读机/复读机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071359370127.png"
+              },
+              {
+                "text": "电子书",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071352170000.png"
+              }
+            ]
+          },
+          {
+            "title": "视听娱乐",
+            "item": [{
+                "text": "MP3/MP4",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "音响/音响",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071404520577.png"
+              },
+              {
+                "text": "耳机/耳麦",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "收/录音机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071406560292.png"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "data": {
+        "advert": "http://gfs9.gomein.net.cn/wireless/T1uRVXB7C_1RCvBVdK_1125_347.jpg",
+        "flag": true,
+        "list": [{
+            "title": "手机通讯",
+            "item": [{
+              "text": "手机",
+              "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000070.png"
+            }]
+          },
+          {
+            "title": "手机配件",
+            "item": [{
+                "text": "移动电源",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat15787588.png"
+              },
+              {
+                "text": "存储卡/读卡器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000082.png"
+              },
+              {
+                "text": "蓝牙耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "有线耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "iPhone配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10005424.png"
+              },
+              {
+                "text": "保护套",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000089.png"
+              },
+              {
+                "text": "贴膜",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000088.png"
+              },
+              {
+                "text": "手机电池",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000079.png"
+              },
+              {
+                "text": "智能手环/手表",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat21455955.png"
+              },
+              {
+                "text": "车载配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat15787589.png"
+              },
+              {
+                "text": "其他配件",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000086.png"
+              },
+              {
+                "text": "充电器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000080.png"
+              }
+            ]
+          },
+          {
+            "title": "摄像数码",
+            "item": [{
+                "text": "数码相机",
+                "pic": "//img10.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071412360520.png"
+              },
+              {
+                "text": "单反相机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415230198.png"
+              },
+              {
+                "text": "单电/微单相机",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415420234.png"
+              },
+              {
+                "text": "摄像机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416100192.png"
+              },
+              {
+                "text": "拍立得",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416350639.png"
+              }
+            ]
+          },
+          {
+            "title": "摄照配件",
+            "item": [{
+                "text": "单反镜头",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "滤镜",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000150.png"
+              },
+              {
+                "text": "三脚架/云台",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000152.png"
+              },
+              {
+                "text": "摄照包",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000153.png"
+              },
+              {
+                "text": "单反配件",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "存储卡",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000155.png"
+              },
+              {
+                "text": "电池/充电器",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10000157.png"
+              }
+            ]
+          },
+          {
+            "title": "智能设备",
+            "item": [{
+                "text": "智能手表",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能手环",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071139390561.png"
+              },
+              {
+                "text": "VR眼镜",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能家居",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071149210111.png"
+              },
+              {
+                "text": "健康监测",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071150290899.png"
+              },
+              {
+                "text": "无人机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071151120997.png"
+              }
+            ]
+          },
+          {
+            "title": "电子教育",
+            "item": [{
+                "text": "录音笔",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071354010000.png"
+              },
+              {
+                "text": "点读机/复读机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071359370127.png"
+              },
+              {
+                "text": "电子书",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071352170000.png"
+              }
+            ]
+          },
+          {
+            "title": "视听娱乐",
+            "item": [{
+                "text": "MP3/MP4",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "音响/音响",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071404520577.png"
+              },
+              {
+                "text": "耳机/耳麦",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "收/录音机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071406560292.png"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "data": {
+        "advert": "http://gfs9.gomein.net.cn/wireless/T1uRVXB7C_1RCvBVdK_1125_347.jpg",
+        "flag": true,
+        "list": [{
+            "title": "手机通讯",
+            "item": [{
+              "text": "手机",
+              "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000070.png"
+            }]
+          },
+          {
+            "title": "手机配件",
+            "item": [{
+                "text": "移动电源",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat15787588.png"
+              },
+              {
+                "text": "存储卡/读卡器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000082.png"
+              },
+              {
+                "text": "蓝牙耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "有线耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "iPhone配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10005424.png"
+              },
+              {
+                "text": "保护套",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000089.png"
+              },
+              {
+                "text": "贴膜",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000088.png"
+              },
+              {
+                "text": "手机电池",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000079.png"
+              },
+              {
+                "text": "智能手环/手表",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat21455955.png"
+              },
+              {
+                "text": "车载配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat15787589.png"
+              },
+              {
+                "text": "其他配件",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000086.png"
+              },
+              {
+                "text": "充电器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000080.png"
+              }
+            ]
+          },
+          {
+            "title": "摄像数码",
+            "item": [{
+                "text": "数码相机",
+                "pic": "//img10.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071412360520.png"
+              },
+              {
+                "text": "单反相机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415230198.png"
+              },
+              {
+                "text": "单电/微单相机",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415420234.png"
+              },
+              {
+                "text": "摄像机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416100192.png"
+              },
+              {
+                "text": "拍立得",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416350639.png"
+              }
+            ]
+          },
+          {
+            "title": "摄照配件",
+            "item": [{
+                "text": "单反镜头",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "滤镜",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000150.png"
+              },
+              {
+                "text": "三脚架/云台",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000152.png"
+              },
+              {
+                "text": "摄照包",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000153.png"
+              },
+              {
+                "text": "单反配件",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "存储卡",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000155.png"
+              },
+              {
+                "text": "电池/充电器",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10000157.png"
+              }
+            ]
+          },
+          {
+            "title": "智能设备",
+            "item": [{
+                "text": "智能手表",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能手环",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071139390561.png"
+              },
+              {
+                "text": "VR眼镜",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能家居",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071149210111.png"
+              },
+              {
+                "text": "健康监测",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071150290899.png"
+              },
+              {
+                "text": "无人机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071151120997.png"
+              }
+            ]
+          },
+          {
+            "title": "电子教育",
+            "item": [{
+                "text": "录音笔",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071354010000.png"
+              },
+              {
+                "text": "点读机/复读机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071359370127.png"
+              },
+              {
+                "text": "电子书",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071352170000.png"
+              }
+            ]
+          },
+          {
+            "title": "视听娱乐",
+            "item": [{
+                "text": "MP3/MP4",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "音响/音响",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071404520577.png"
+              },
+              {
+                "text": "耳机/耳麦",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "收/录音机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071406560292.png"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "data": {
+        "advert": "http://gfs9.gomein.net.cn/wireless/T1uRVXB7C_1RCvBVdK_1125_347.jpg",
+        "flag": true,
+        "list": [{
+            "title": "手机通讯",
+            "item": [{
+              "text": "手机",
+              "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000070.png"
+            }]
+          },
+          {
+            "title": "手机配件",
+            "item": [{
+                "text": "移动电源",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat15787588.png"
+              },
+              {
+                "text": "存储卡/读卡器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000082.png"
+              },
+              {
+                "text": "蓝牙耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "有线耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "iPhone配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10005424.png"
+              },
+              {
+                "text": "保护套",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000089.png"
+              },
+              {
+                "text": "贴膜",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000088.png"
+              },
+              {
+                "text": "手机电池",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000079.png"
+              },
+              {
+                "text": "智能手环/手表",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat21455955.png"
+              },
+              {
+                "text": "车载配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat15787589.png"
+              },
+              {
+                "text": "其他配件",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000086.png"
+              },
+              {
+                "text": "充电器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000080.png"
+              }
+            ]
+          },
+          {
+            "title": "摄像数码",
+            "item": [{
+                "text": "数码相机",
+                "pic": "//img10.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071412360520.png"
+              },
+              {
+                "text": "单反相机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415230198.png"
+              },
+              {
+                "text": "单电/微单相机",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415420234.png"
+              },
+              {
+                "text": "摄像机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416100192.png"
+              },
+              {
+                "text": "拍立得",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416350639.png"
+              }
+            ]
+          },
+          {
+            "title": "摄照配件",
+            "item": [{
+                "text": "单反镜头",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "滤镜",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000150.png"
+              },
+              {
+                "text": "三脚架/云台",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000152.png"
+              },
+              {
+                "text": "摄照包",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000153.png"
+              },
+              {
+                "text": "单反配件",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "存储卡",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000155.png"
+              },
+              {
+                "text": "电池/充电器",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10000157.png"
+              }
+            ]
+          },
+          {
+            "title": "智能设备",
+            "item": [{
+                "text": "智能手表",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能手环",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071139390561.png"
+              },
+              {
+                "text": "VR眼镜",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能家居",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071149210111.png"
+              },
+              {
+                "text": "健康监测",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071150290899.png"
+              },
+              {
+                "text": "无人机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071151120997.png"
+              }
+            ]
+          },
+          {
+            "title": "电子教育",
+            "item": [{
+                "text": "录音笔",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071354010000.png"
+              },
+              {
+                "text": "点读机/复读机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071359370127.png"
+              },
+              {
+                "text": "电子书",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071352170000.png"
+              }
+            ]
+          },
+          {
+            "title": "视听娱乐",
+            "item": [{
+                "text": "MP3/MP4",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "音响/音响",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071404520577.png"
+              },
+              {
+                "text": "耳机/耳麦",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "收/录音机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071406560292.png"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "data": {
+        "advert": "http://gfs9.gomein.net.cn/wireless/T1uRVXB7C_1RCvBVdK_1125_347.jpg",
+        "flag": true,
+        "list": [{
+            "title": "手机通讯",
+            "item": [{
+              "text": "手机",
+              "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000070.png"
+            }]
+          },
+          {
+            "title": "手机配件",
+            "item": [{
+                "text": "移动电源",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat15787588.png"
+              },
+              {
+                "text": "存储卡/读卡器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000082.png"
+              },
+              {
+                "text": "蓝牙耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "有线耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "iPhone配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10005424.png"
+              },
+              {
+                "text": "保护套",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000089.png"
+              },
+              {
+                "text": "贴膜",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000088.png"
+              },
+              {
+                "text": "手机电池",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000079.png"
+              },
+              {
+                "text": "智能手环/手表",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat21455955.png"
+              },
+              {
+                "text": "车载配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat15787589.png"
+              },
+              {
+                "text": "其他配件",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000086.png"
+              },
+              {
+                "text": "充电器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000080.png"
+              }
+            ]
+          },
+          {
+            "title": "摄像数码",
+            "item": [{
+                "text": "数码相机",
+                "pic": "//img10.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071412360520.png"
+              },
+              {
+                "text": "单反相机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415230198.png"
+              },
+              {
+                "text": "单电/微单相机",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415420234.png"
+              },
+              {
+                "text": "摄像机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416100192.png"
+              },
+              {
+                "text": "拍立得",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416350639.png"
+              }
+            ]
+          },
+          {
+            "title": "摄照配件",
+            "item": [{
+                "text": "单反镜头",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "滤镜",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000150.png"
+              },
+              {
+                "text": "三脚架/云台",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000152.png"
+              },
+              {
+                "text": "摄照包",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000153.png"
+              },
+              {
+                "text": "单反配件",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "存储卡",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000155.png"
+              },
+              {
+                "text": "电池/充电器",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10000157.png"
+              }
+            ]
+          },
+          {
+            "title": "智能设备",
+            "item": [{
+                "text": "智能手表",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能手环",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071139390561.png"
+              },
+              {
+                "text": "VR眼镜",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能家居",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071149210111.png"
+              },
+              {
+                "text": "健康监测",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071150290899.png"
+              },
+              {
+                "text": "无人机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071151120997.png"
+              }
+            ]
+          },
+          {
+            "title": "电子教育",
+            "item": [{
+                "text": "录音笔",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071354010000.png"
+              },
+              {
+                "text": "点读机/复读机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071359370127.png"
+              },
+              {
+                "text": "电子书",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071352170000.png"
+              }
+            ]
+          },
+          {
+            "title": "视听娱乐",
+            "item": [{
+                "text": "MP3/MP4",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "音响/音响",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071404520577.png"
+              },
+              {
+                "text": "耳机/耳麦",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "收/录音机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071406560292.png"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "data": {
+        "advert": "http://gfs9.gomein.net.cn/wireless/T1uRVXB7C_1RCvBVdK_1125_347.jpg",
+        "flag": true,
+        "list": [{
+            "title": "手机通讯",
+            "item": [{
+              "text": "手机",
+              "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000070.png"
+            }]
+          },
+          {
+            "title": "手机配件",
+            "item": [{
+                "text": "移动电源",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat15787588.png"
+              },
+              {
+                "text": "存储卡/读卡器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000082.png"
+              },
+              {
+                "text": "蓝牙耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "有线耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "iPhone配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10005424.png"
+              },
+              {
+                "text": "保护套",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000089.png"
+              },
+              {
+                "text": "贴膜",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000088.png"
+              },
+              {
+                "text": "手机电池",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000079.png"
+              },
+              {
+                "text": "智能手环/手表",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat21455955.png"
+              },
+              {
+                "text": "车载配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat15787589.png"
+              },
+              {
+                "text": "其他配件",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000086.png"
+              },
+              {
+                "text": "充电器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000080.png"
+              }
+            ]
+          },
+          {
+            "title": "摄像数码",
+            "item": [{
+                "text": "数码相机",
+                "pic": "//img10.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071412360520.png"
+              },
+              {
+                "text": "单反相机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415230198.png"
+              },
+              {
+                "text": "单电/微单相机",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415420234.png"
+              },
+              {
+                "text": "摄像机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416100192.png"
+              },
+              {
+                "text": "拍立得",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416350639.png"
+              }
+            ]
+          },
+          {
+            "title": "摄照配件",
+            "item": [{
+                "text": "单反镜头",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "滤镜",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000150.png"
+              },
+              {
+                "text": "三脚架/云台",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000152.png"
+              },
+              {
+                "text": "摄照包",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000153.png"
+              },
+              {
+                "text": "单反配件",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "存储卡",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000155.png"
+              },
+              {
+                "text": "电池/充电器",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10000157.png"
+              }
+            ]
+          },
+          {
+            "title": "智能设备",
+            "item": [{
+                "text": "智能手表",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能手环",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071139390561.png"
+              },
+              {
+                "text": "VR眼镜",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能家居",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071149210111.png"
+              },
+              {
+                "text": "健康监测",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071150290899.png"
+              },
+              {
+                "text": "无人机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071151120997.png"
+              }
+            ]
+          },
+          {
+            "title": "电子教育",
+            "item": [{
+                "text": "录音笔",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071354010000.png"
+              },
+              {
+                "text": "点读机/复读机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071359370127.png"
+              },
+              {
+                "text": "电子书",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071352170000.png"
+              }
+            ]
+          },
+          {
+            "title": "视听娱乐",
+            "item": [{
+                "text": "MP3/MP4",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "音响/音响",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071404520577.png"
+              },
+              {
+                "text": "耳机/耳麦",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "收/录音机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071406560292.png"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "data": {
+        "advert": "http://gfs9.gomein.net.cn/wireless/T1uRVXB7C_1RCvBVdK_1125_347.jpg",
+        "flag": true,
+        "list": [{
+            "title": "手机通讯",
+            "item": [{
+              "text": "手机",
+              "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000070.png"
+            }]
+          },
+          {
+            "title": "手机配件",
+            "item": [{
+                "text": "移动电源",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat15787588.png"
+              },
+              {
+                "text": "存储卡/读卡器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000082.png"
+              },
+              {
+                "text": "蓝牙耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "有线耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "iPhone配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10005424.png"
+              },
+              {
+                "text": "保护套",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000089.png"
+              },
+              {
+                "text": "贴膜",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000088.png"
+              },
+              {
+                "text": "手机电池",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000079.png"
+              },
+              {
+                "text": "智能手环/手表",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat21455955.png"
+              },
+              {
+                "text": "车载配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat15787589.png"
+              },
+              {
+                "text": "其他配件",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000086.png"
+              },
+              {
+                "text": "充电器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000080.png"
+              }
+            ]
+          },
+          {
+            "title": "摄像数码",
+            "item": [{
+                "text": "数码相机",
+                "pic": "//img10.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071412360520.png"
+              },
+              {
+                "text": "单反相机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415230198.png"
+              },
+              {
+                "text": "单电/微单相机",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415420234.png"
+              },
+              {
+                "text": "摄像机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416100192.png"
+              },
+              {
+                "text": "拍立得",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416350639.png"
+              }
+            ]
+          },
+          {
+            "title": "摄照配件",
+            "item": [{
+                "text": "单反镜头",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "滤镜",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000150.png"
+              },
+              {
+                "text": "三脚架/云台",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000152.png"
+              },
+              {
+                "text": "摄照包",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000153.png"
+              },
+              {
+                "text": "单反配件",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "存储卡",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000155.png"
+              },
+              {
+                "text": "电池/充电器",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10000157.png"
+              }
+            ]
+          },
+          {
+            "title": "智能设备",
+            "item": [{
+                "text": "智能手表",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能手环",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071139390561.png"
+              },
+              {
+                "text": "VR眼镜",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能家居",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071149210111.png"
+              },
+              {
+                "text": "健康监测",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071150290899.png"
+              },
+              {
+                "text": "无人机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071151120997.png"
+              }
+            ]
+          },
+          {
+            "title": "电子教育",
+            "item": [{
+                "text": "录音笔",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071354010000.png"
+              },
+              {
+                "text": "点读机/复读机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071359370127.png"
+              },
+              {
+                "text": "电子书",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071352170000.png"
+              }
+            ]
+          },
+          {
+            "title": "视听娱乐",
+            "item": [{
+                "text": "MP3/MP4",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "音响/音响",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071404520577.png"
+              },
+              {
+                "text": "耳机/耳麦",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "收/录音机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071406560292.png"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "data": {
+        "advert": "http://gfs9.gomein.net.cn/wireless/T1uRVXB7C_1RCvBVdK_1125_347.jpg",
+        "flag": true,
+        "list": [{
+            "title": "手机通讯",
+            "item": [{
+              "text": "手机",
+              "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000070.png"
+            }]
+          },
+          {
+            "title": "手机配件",
+            "item": [{
+                "text": "移动电源",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat15787588.png"
+              },
+              {
+                "text": "存储卡/读卡器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000082.png"
+              },
+              {
+                "text": "蓝牙耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "有线耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "iPhone配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10005424.png"
+              },
+              {
+                "text": "保护套",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000089.png"
+              },
+              {
+                "text": "贴膜",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000088.png"
+              },
+              {
+                "text": "手机电池",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000079.png"
+              },
+              {
+                "text": "智能手环/手表",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat21455955.png"
+              },
+              {
+                "text": "车载配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat15787589.png"
+              },
+              {
+                "text": "其他配件",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000086.png"
+              },
+              {
+                "text": "充电器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000080.png"
+              }
+            ]
+          },
+          {
+            "title": "摄像数码",
+            "item": [{
+                "text": "数码相机",
+                "pic": "//img10.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071412360520.png"
+              },
+              {
+                "text": "单反相机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415230198.png"
+              },
+              {
+                "text": "单电/微单相机",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415420234.png"
+              },
+              {
+                "text": "摄像机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416100192.png"
+              },
+              {
+                "text": "拍立得",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416350639.png"
+              }
+            ]
+          },
+          {
+            "title": "摄照配件",
+            "item": [{
+                "text": "单反镜头",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "滤镜",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000150.png"
+              },
+              {
+                "text": "三脚架/云台",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000152.png"
+              },
+              {
+                "text": "摄照包",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000153.png"
+              },
+              {
+                "text": "单反配件",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "存储卡",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000155.png"
+              },
+              {
+                "text": "电池/充电器",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10000157.png"
+              }
+            ]
+          },
+          {
+            "title": "智能设备",
+            "item": [{
+                "text": "智能手表",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能手环",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071139390561.png"
+              },
+              {
+                "text": "VR眼镜",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能家居",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071149210111.png"
+              },
+              {
+                "text": "健康监测",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071150290899.png"
+              },
+              {
+                "text": "无人机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071151120997.png"
+              }
+            ]
+          },
+          {
+            "title": "电子教育",
+            "item": [{
+                "text": "录音笔",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071354010000.png"
+              },
+              {
+                "text": "点读机/复读机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071359370127.png"
+              },
+              {
+                "text": "电子书",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071352170000.png"
+              }
+            ]
+          },
+          {
+            "title": "视听娱乐",
+            "item": [{
+                "text": "MP3/MP4",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "音响/音响",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071404520577.png"
+              },
+              {
+                "text": "耳机/耳麦",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "收/录音机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071406560292.png"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "data": {
+        "advert": "http://gfs9.gomein.net.cn/wireless/T1uRVXB7C_1RCvBVdK_1125_347.jpg",
+        "flag": true,
+        "list": [{
+            "title": "手机通讯",
+            "item": [{
+              "text": "手机",
+              "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000070.png"
+            }]
+          },
+          {
+            "title": "手机配件",
+            "item": [{
+                "text": "移动电源",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat15787588.png"
+              },
+              {
+                "text": "存储卡/读卡器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000082.png"
+              },
+              {
+                "text": "蓝牙耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "有线耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "iPhone配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10005424.png"
+              },
+              {
+                "text": "保护套",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000089.png"
+              },
+              {
+                "text": "贴膜",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000088.png"
+              },
+              {
+                "text": "手机电池",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000079.png"
+              },
+              {
+                "text": "智能手环/手表",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat21455955.png"
+              },
+              {
+                "text": "车载配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat15787589.png"
+              },
+              {
+                "text": "其他配件",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000086.png"
+              },
+              {
+                "text": "充电器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000080.png"
+              }
+            ]
+          },
+          {
+            "title": "摄像数码",
+            "item": [{
+                "text": "数码相机",
+                "pic": "//img10.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071412360520.png"
+              },
+              {
+                "text": "单反相机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415230198.png"
+              },
+              {
+                "text": "单电/微单相机",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415420234.png"
+              },
+              {
+                "text": "摄像机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416100192.png"
+              },
+              {
+                "text": "拍立得",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416350639.png"
+              }
+            ]
+          },
+          {
+            "title": "摄照配件",
+            "item": [{
+                "text": "单反镜头",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "滤镜",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000150.png"
+              },
+              {
+                "text": "三脚架/云台",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000152.png"
+              },
+              {
+                "text": "摄照包",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000153.png"
+              },
+              {
+                "text": "单反配件",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "存储卡",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000155.png"
+              },
+              {
+                "text": "电池/充电器",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10000157.png"
+              }
+            ]
+          },
+          {
+            "title": "智能设备",
+            "item": [{
+                "text": "智能手表",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能手环",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071139390561.png"
+              },
+              {
+                "text": "VR眼镜",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能家居",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071149210111.png"
+              },
+              {
+                "text": "健康监测",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071150290899.png"
+              },
+              {
+                "text": "无人机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071151120997.png"
+              }
+            ]
+          },
+          {
+            "title": "电子教育",
+            "item": [{
+                "text": "录音笔",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071354010000.png"
+              },
+              {
+                "text": "点读机/复读机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071359370127.png"
+              },
+              {
+                "text": "电子书",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071352170000.png"
+              }
+            ]
+          },
+          {
+            "title": "视听娱乐",
+            "item": [{
+                "text": "MP3/MP4",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "音响/音响",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071404520577.png"
+              },
+              {
+                "text": "耳机/耳麦",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "收/录音机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071406560292.png"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "data": {
+        "advert": "http://gfs9.gomein.net.cn/wireless/T1uRVXB7C_1RCvBVdK_1125_347.jpg",
+        "flag": true,
+        "list": [{
+            "title": "手机通讯",
+            "item": [{
+              "text": "手机",
+              "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000070.png"
+            }]
+          },
+          {
+            "title": "手机配件",
+            "item": [{
+                "text": "移动电源",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat15787588.png"
+              },
+              {
+                "text": "存储卡/读卡器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000082.png"
+              },
+              {
+                "text": "蓝牙耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "有线耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "iPhone配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10005424.png"
+              },
+              {
+                "text": "保护套",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000089.png"
+              },
+              {
+                "text": "贴膜",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000088.png"
+              },
+              {
+                "text": "手机电池",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000079.png"
+              },
+              {
+                "text": "智能手环/手表",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat21455955.png"
+              },
+              {
+                "text": "车载配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat15787589.png"
+              },
+              {
+                "text": "其他配件",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000086.png"
+              },
+              {
+                "text": "充电器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000080.png"
+              }
+            ]
+          },
+          {
+            "title": "摄像数码",
+            "item": [{
+                "text": "数码相机",
+                "pic": "//img10.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071412360520.png"
+              },
+              {
+                "text": "单反相机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415230198.png"
+              },
+              {
+                "text": "单电/微单相机",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415420234.png"
+              },
+              {
+                "text": "摄像机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416100192.png"
+              },
+              {
+                "text": "拍立得",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416350639.png"
+              }
+            ]
+          },
+          {
+            "title": "摄照配件",
+            "item": [{
+                "text": "单反镜头",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "滤镜",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000150.png"
+              },
+              {
+                "text": "三脚架/云台",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000152.png"
+              },
+              {
+                "text": "摄照包",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000153.png"
+              },
+              {
+                "text": "单反配件",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "存储卡",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000155.png"
+              },
+              {
+                "text": "电池/充电器",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10000157.png"
+              }
+            ]
+          },
+          {
+            "title": "智能设备",
+            "item": [{
+                "text": "智能手表",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能手环",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071139390561.png"
+              },
+              {
+                "text": "VR眼镜",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能家居",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071149210111.png"
+              },
+              {
+                "text": "健康监测",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071150290899.png"
+              },
+              {
+                "text": "无人机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071151120997.png"
+              }
+            ]
+          },
+          {
+            "title": "电子教育",
+            "item": [{
+                "text": "录音笔",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071354010000.png"
+              },
+              {
+                "text": "点读机/复读机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071359370127.png"
+              },
+              {
+                "text": "电子书",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071352170000.png"
+              }
+            ]
+          },
+          {
+            "title": "视听娱乐",
+            "item": [{
+                "text": "MP3/MP4",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "音响/音响",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071404520577.png"
+              },
+              {
+                "text": "耳机/耳麦",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "收/录音机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071406560292.png"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "data": {
+        "advert": "http://gfs9.gomein.net.cn/wireless/T1uRVXB7C_1RCvBVdK_1125_347.jpg",
+        "flag": true,
+        "list": [{
+            "title": "手机通讯",
+            "item": [{
+              "text": "手机",
+              "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000070.png"
+            }]
+          },
+          {
+            "title": "手机配件",
+            "item": [{
+                "text": "移动电源",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat15787588.png"
+              },
+              {
+                "text": "存储卡/读卡器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000082.png"
+              },
+              {
+                "text": "蓝牙耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "有线耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "iPhone配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10005424.png"
+              },
+              {
+                "text": "保护套",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000089.png"
+              },
+              {
+                "text": "贴膜",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000088.png"
+              },
+              {
+                "text": "手机电池",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000079.png"
+              },
+              {
+                "text": "智能手环/手表",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat21455955.png"
+              },
+              {
+                "text": "车载配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat15787589.png"
+              },
+              {
+                "text": "其他配件",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000086.png"
+              },
+              {
+                "text": "充电器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000080.png"
+              }
+            ]
+          },
+          {
+            "title": "摄像数码",
+            "item": [{
+                "text": "数码相机",
+                "pic": "//img10.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071412360520.png"
+              },
+              {
+                "text": "单反相机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415230198.png"
+              },
+              {
+                "text": "单电/微单相机",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415420234.png"
+              },
+              {
+                "text": "摄像机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416100192.png"
+              },
+              {
+                "text": "拍立得",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416350639.png"
+              }
+            ]
+          },
+          {
+            "title": "摄照配件",
+            "item": [{
+                "text": "单反镜头",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "滤镜",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000150.png"
+              },
+              {
+                "text": "三脚架/云台",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000152.png"
+              },
+              {
+                "text": "摄照包",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000153.png"
+              },
+              {
+                "text": "单反配件",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "存储卡",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000155.png"
+              },
+              {
+                "text": "电池/充电器",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10000157.png"
+              }
+            ]
+          },
+          {
+            "title": "智能设备",
+            "item": [{
+                "text": "智能手表",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能手环",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071139390561.png"
+              },
+              {
+                "text": "VR眼镜",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能家居",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071149210111.png"
+              },
+              {
+                "text": "健康监测",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071150290899.png"
+              },
+              {
+                "text": "无人机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071151120997.png"
+              }
+            ]
+          },
+          {
+            "title": "电子教育",
+            "item": [{
+                "text": "录音笔",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071354010000.png"
+              },
+              {
+                "text": "点读机/复读机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071359370127.png"
+              },
+              {
+                "text": "电子书",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071352170000.png"
+              }
+            ]
+          },
+          {
+            "title": "视听娱乐",
+            "item": [{
+                "text": "MP3/MP4",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "音响/音响",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071404520577.png"
+              },
+              {
+                "text": "耳机/耳麦",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "收/录音机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071406560292.png"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "data": {
+        "advert": "http://gfs9.gomein.net.cn/wireless/T1uRVXB7C_1RCvBVdK_1125_347.jpg",
+        "flag": true,
+        "list": [{
+            "title": "手机通讯",
+            "item": [{
+              "text": "手机",
+              "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000070.png"
+            }]
+          },
+          {
+            "title": "手机配件",
+            "item": [{
+                "text": "移动电源",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat15787588.png"
+              },
+              {
+                "text": "存储卡/读卡器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000082.png"
+              },
+              {
+                "text": "蓝牙耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "有线耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "iPhone配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10005424.png"
+              },
+              {
+                "text": "保护套",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000089.png"
+              },
+              {
+                "text": "贴膜",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000088.png"
+              },
+              {
+                "text": "手机电池",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000079.png"
+              },
+              {
+                "text": "智能手环/手表",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat21455955.png"
+              },
+              {
+                "text": "车载配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat15787589.png"
+              },
+              {
+                "text": "其他配件",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000086.png"
+              },
+              {
+                "text": "充电器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000080.png"
+              }
+            ]
+          },
+          {
+            "title": "摄像数码",
+            "item": [{
+                "text": "数码相机",
+                "pic": "//img10.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071412360520.png"
+              },
+              {
+                "text": "单反相机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415230198.png"
+              },
+              {
+                "text": "单电/微单相机",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415420234.png"
+              },
+              {
+                "text": "摄像机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416100192.png"
+              },
+              {
+                "text": "拍立得",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416350639.png"
+              }
+            ]
+          },
+          {
+            "title": "摄照配件",
+            "item": [{
+                "text": "单反镜头",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "滤镜",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000150.png"
+              },
+              {
+                "text": "三脚架/云台",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000152.png"
+              },
+              {
+                "text": "摄照包",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000153.png"
+              },
+              {
+                "text": "单反配件",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "存储卡",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000155.png"
+              },
+              {
+                "text": "电池/充电器",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10000157.png"
+              }
+            ]
+          },
+          {
+            "title": "智能设备",
+            "item": [{
+                "text": "智能手表",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能手环",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071139390561.png"
+              },
+              {
+                "text": "VR眼镜",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能家居",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071149210111.png"
+              },
+              {
+                "text": "健康监测",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071150290899.png"
+              },
+              {
+                "text": "无人机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071151120997.png"
+              }
+            ]
+          },
+          {
+            "title": "电子教育",
+            "item": [{
+                "text": "录音笔",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071354010000.png"
+              },
+              {
+                "text": "点读机/复读机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071359370127.png"
+              },
+              {
+                "text": "电子书",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071352170000.png"
+              }
+            ]
+          },
+          {
+            "title": "视听娱乐",
+            "item": [{
+                "text": "MP3/MP4",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "音响/音响",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071404520577.png"
+              },
+              {
+                "text": "耳机/耳麦",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "收/录音机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071406560292.png"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "data": {
+        "advert": "http://gfs9.gomein.net.cn/wireless/T1uRVXB7C_1RCvBVdK_1125_347.jpg",
+        "flag": true,
+        "list": [{
+            "title": "手机通讯",
+            "item": [{
+              "text": "手机",
+              "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000070.png"
+            }]
+          },
+          {
+            "title": "手机配件",
+            "item": [{
+                "text": "移动电源",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat15787588.png"
+              },
+              {
+                "text": "存储卡/读卡器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000082.png"
+              },
+              {
+                "text": "蓝牙耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "有线耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "iPhone配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10005424.png"
+              },
+              {
+                "text": "保护套",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000089.png"
+              },
+              {
+                "text": "贴膜",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000088.png"
+              },
+              {
+                "text": "手机电池",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000079.png"
+              },
+              {
+                "text": "智能手环/手表",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat21455955.png"
+              },
+              {
+                "text": "车载配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat15787589.png"
+              },
+              {
+                "text": "其他配件",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000086.png"
+              },
+              {
+                "text": "充电器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000080.png"
+              }
+            ]
+          },
+          {
+            "title": "摄像数码",
+            "item": [{
+                "text": "数码相机",
+                "pic": "//img10.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071412360520.png"
+              },
+              {
+                "text": "单反相机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415230198.png"
+              },
+              {
+                "text": "单电/微单相机",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415420234.png"
+              },
+              {
+                "text": "摄像机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416100192.png"
+              },
+              {
+                "text": "拍立得",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416350639.png"
+              }
+            ]
+          },
+          {
+            "title": "摄照配件",
+            "item": [{
+                "text": "单反镜头",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "滤镜",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000150.png"
+              },
+              {
+                "text": "三脚架/云台",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000152.png"
+              },
+              {
+                "text": "摄照包",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000153.png"
+              },
+              {
+                "text": "单反配件",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "存储卡",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000155.png"
+              },
+              {
+                "text": "电池/充电器",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10000157.png"
+              }
+            ]
+          },
+          {
+            "title": "智能设备",
+            "item": [{
+                "text": "智能手表",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能手环",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071139390561.png"
+              },
+              {
+                "text": "VR眼镜",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能家居",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071149210111.png"
+              },
+              {
+                "text": "健康监测",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071150290899.png"
+              },
+              {
+                "text": "无人机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071151120997.png"
+              }
+            ]
+          },
+          {
+            "title": "电子教育",
+            "item": [{
+                "text": "录音笔",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071354010000.png"
+              },
+              {
+                "text": "点读机/复读机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071359370127.png"
+              },
+              {
+                "text": "电子书",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071352170000.png"
+              }
+            ]
+          },
+          {
+            "title": "视听娱乐",
+            "item": [{
+                "text": "MP3/MP4",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "音响/音响",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071404520577.png"
+              },
+              {
+                "text": "耳机/耳麦",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "收/录音机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071406560292.png"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "data": {
+        "advert": "http://gfs9.gomein.net.cn/wireless/T1uRVXB7C_1RCvBVdK_1125_347.jpg",
+        "flag": true,
+        "list": [{
+            "title": "手机通讯",
+            "item": [{
+              "text": "手机",
+              "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000070.png"
+            }]
+          },
+          {
+            "title": "手机配件",
+            "item": [{
+                "text": "移动电源",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat15787588.png"
+              },
+              {
+                "text": "存储卡/读卡器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000082.png"
+              },
+              {
+                "text": "蓝牙耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "有线耳机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000077.png"
+              },
+              {
+                "text": "iPhone配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10005424.png"
+              },
+              {
+                "text": "保护套",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000089.png"
+              },
+              {
+                "text": "贴膜",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000088.png"
+              },
+              {
+                "text": "手机电池",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000079.png"
+              },
+              {
+                "text": "智能手环/手表",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat21455955.png"
+              },
+              {
+                "text": "车载配件",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat15787589.png"
+              },
+              {
+                "text": "其他配件",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000086.png"
+              },
+              {
+                "text": "充电器",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000080.png"
+              }
+            ]
+          },
+          {
+            "title": "摄像数码",
+            "item": [{
+                "text": "数码相机",
+                "pic": "//img10.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071412360520.png"
+              },
+              {
+                "text": "单反相机",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415230198.png"
+              },
+              {
+                "text": "单电/微单相机",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071415420234.png"
+              },
+              {
+                "text": "摄像机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416100192.png"
+              },
+              {
+                "text": "拍立得",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071416350639.png"
+              }
+            ]
+          },
+          {
+            "title": "摄照配件",
+            "item": [{
+                "text": "单反镜头",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "滤镜",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000150.png"
+              },
+              {
+                "text": "三脚架/云台",
+                "pic": "//img13.gomein.net.cn/image/prodimg/gicon/cat10000152.png"
+              },
+              {
+                "text": "摄照包",
+                "pic": "//img14.gomein.net.cn/image/prodimg/gicon/cat10000153.png"
+              },
+              {
+                "text": "单反配件",
+                "pic": "//img10.gomein.net.cn/image/prodimg/gicon/cat10000149.png"
+              },
+              {
+                "text": "存储卡",
+                "pic": "//img11.gomein.net.cn/image/prodimg/gicon/cat10000155.png"
+              },
+              {
+                "text": "电池/充电器",
+                "pic": "//img12.gomein.net.cn/image/prodimg/gicon/cat10000157.png"
+              }
+            ]
+          },
+          {
+            "title": "智能设备",
+            "item": [{
+                "text": "智能手表",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能手环",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071139390561.png"
+              },
+              {
+                "text": "VR眼镜",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071140110567.png"
+              },
+              {
+                "text": "智能家居",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071149210111.png"
+              },
+              {
+                "text": "健康监测",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071150290899.png"
+              },
+              {
+                "text": "无人机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071151120997.png"
+              }
+            ]
+          },
+          {
+            "title": "电子教育",
+            "item": [{
+                "text": "录音笔",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071354010000.png"
+              },
+              {
+                "text": "点读机/复读机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071359370127.png"
+              },
+              {
+                "text": "电子书",
+                "pic": "//img14.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071352170000.png"
+              }
+            ]
+          },
+          {
+            "title": "视听娱乐",
+            "item": [{
+                "text": "MP3/MP4",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "音响/音响",
+                "pic": "//img11.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071404520577.png"
+              },
+              {
+                "text": "耳机/耳麦",
+                "pic": "//img12.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071403590416.png"
+              },
+              {
+                "text": "收/录音机",
+                "pic": "//img13.gomein.net.cn/image/prodimg/promimg/topics/201704/201704071406560292.png"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

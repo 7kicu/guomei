@@ -1,0 +1,35 @@
+{
+    "data": {
+        "title": "https://gfs10.gomein.net.cn/wireless/T1MiWQBXY_1RCvBVdK_750_80.webp",
+        "slides": [
+            {
+                "img": "//gfs17.gomein.net.cn/T1VkZbByWv1RCvBVdK_360.webp",
+                "txt1": "自营",
+                "txt2": "国美1.5匹冷暖定频空调",
+                "txt3": "wifi操控 电辅加热",
+                "price": "￥1699"
+            },
+            {
+                "img": "//gfs17.gomein.net.cn/T1fPdTBbdv1RCvBVdK_360.webp",
+                "txt1": "自营",
+                "txt2": "格力大1匹变频空调",
+                "txt3": "智能WIFI 1Hz变频",
+                "price": "￥3099"
+            },
+            {
+                "img": "//gfs17.gomein.net.cn/T1jWKQBsYv1RCvBVdK_360.webp",
+                "txt1": "自营",
+                "txt2": "美的微波炉 M3-L233B",
+                "txt3": "节能补贴",
+                "price": "￥499"
+            },
+            {
+                "img": "//gfs17.gomein.net.cn/T1AQDbB7J_1RCvBVdK_360.webp",
+                "txt1": "自营",
+                "txt2": "万家乐12升燃气热水器",
+                "txt3": "无氧铜水箱 开机自检",
+                "price": "￥938"
+            }
+        ]
+    }
+}
